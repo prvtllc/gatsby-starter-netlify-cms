@@ -1,0 +1,23 @@
+---
+templateKey: blog-post
+title: Kentucky Defamation Law
+date: 2019-03-08T15:04:10.000Z
+description: Kentucky defamation law consists of statutes and case law.  Defamation law in Kentucky may include libel, slander, false light, intereference with business relations, and other torts.  
+
+tags:
+  - Kentucky defamation law
+  - Kentucky reputaion laws
+---
+![chemex](/img/chemex.jpg)
+
+Below, we’ll take a look into **Kentucky defamation laws**, including Kentucky statutes as well as Kentucky case law regarding reputation offenses, as decided by the Kentucky Courts.  This page will continue to be updated as important cases are decided by the Kentucky Courts and as the Kentucky Legislature enacts relevant legislation.  Our focus will be on how Kentucky defamation laws apply when residents of Kentucky are the victims or the perpetrators of defamation on the Internet.
+
+Additional information related to defamation laws as well as consultation for Kentucky attorneys related to investigations of defamation for Kentucky clients can be obtained by contacting patent attorney, digital forensics, and cyber security expert [Domingo J Rivera](http://www.cyberinternetlawyer.com) of AVM Technology, a consulting firm that assists attorneys and defamation victims uncover the culprits of cyber defamation in Kentucky and throughout the U.S., Canada, and Europe. 
+
+## Kentucky Defamation Statutes
+
+Kentucky defamation statutes will soon be available on this page.  Please check back soon! 
+
+## Kentucky Defamation Cases
+
+Cases providing the interpretation of Kentucky defamation statutes and common law will soon be available on this page.  Please check back soon! 
