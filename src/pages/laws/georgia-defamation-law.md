@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: georgia Defamation Law
+title: Georgia Defamation Law
 date: 2019-03-08T15:04:10.000Z
 description: georgia defamation law consists of statutes and case law.  Defamation law in georgia may include libel, slander, false light, intereference with business relations, and other torts.  
 
