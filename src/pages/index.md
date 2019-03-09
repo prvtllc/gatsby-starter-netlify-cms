@@ -1,9 +1,9 @@
 ---
 templateKey: 'index-page'
-title: 'Great coffee with a conscience'
+title: 'Internet Defamation Laws'
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Internet Defamation Laws
+subheading: Cyber defamation statutes and cases
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,

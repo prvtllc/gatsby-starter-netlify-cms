@@ -1,19 +1,13 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About DefamationLaw.Tech
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Why This Project
+The Internet has brought up an opportunity for free expression.  The balance between the First Amendment and reputational rights is constanly tested in the Courts.  This site was created to bring awareness to the laws of each jurisdiction, how are they being interpreted, and how they differ from each other.  
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Who Created This Project
+This project was created by attorney [Domingo J Rivera](https://www.icyberlaw.com) and [AVM Technology](http://www.infosecusa.com).  Mr. Rivera and AVM Technology consult with attorneys in investigations related to Internet defamation cases. The combination of knowledge of the law as well as technical expertise is applied to create a value added service for attorneys and law firms.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### This Website is Not Complete
+This website is constanly being updated by volunteers and attorneys.  Please do not rely on the information on this site to make life-changing legal decisions or to interpret your rights.  Consult with an attorney of your choice within your jurisdiction.  As you can appreciate while browsing this site, defamation laws may vary between different jurisdictions.  
