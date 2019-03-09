@@ -9,11 +9,9 @@ description: >-
 intro:
   blurbs:
     - image: /img/coffee.png
-    [Domingo J Rivera](https://www.icyberlaw.com)
       text: >
         [AVM Technology,LLC](www.infosecusa.com) Assist attorneys and investigators during cyber investigations regarding online defamation.  The firm assists attorneys with using advanced cyber investigation and forensics techniques to trace, uncover, and identify the authors behind anonymous malicious Internet posts.  The firm also assists individuals accused of online defamtion in disproving evidence obtained through faulty and flawed investigations. 
     - image: /img/coffee-gear.png
-    [Domingo J Rivera](https://www.icyberlaw.com)
       text: >
         [Domingo J. Rivera, Esq.](www.icyberlaw.com) An Internet law pioneer who has successfully discovered the identitites of anonymous parties behind online defamation.  Mr. Rivera has also successfully defended individuals accused of cyber defamation and currently assists other law firms in properly, obtaining, preserving, and presenting forensic evidence.  Mr. Rivera has appeared as an expert witness in digital forensics in Courts throughout the United States. 
     - image: /img/tutorials.png
@@ -49,5 +47,32 @@ testimonials:
     quote: >-
       I received a subpoena seeking to uncover my identity because a hacker used my business WiFi to post unflaterring content about a person that I knew.  It was a difficult situation to say the least. 
 full_image: /img/products-full-width.jpg
-
+pricing:
+  heading: Monthly subscriptions
+  description: >-
+    We make it easy to make great coffee a part of your life. Choose one of our
+    monthly subscription plans to receive great coffee at your doorstep each
+    month. Contact us about more details and payment info.
+  plans:
+    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+      items:
+        - 3 lbs of coffee per month
+        - Green or roasted beans"
+        - One or two varieties of beans"
+      plan: Small
+      price: '50'
+    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      items:
+        - 6 lbs of coffee per month
+        - Green or roasted beans
+        - Up to 4 different varieties of beans
+      plan: Big
+      price: '80'
+    - description: Want a few tiny batches from different varieties? Try our custom plan
+      items:
+        - Whatever you need
+        - Green or roasted beans
+        - Unlimited varieties
+      plan: Custom
+      price: '??'
 ---
