@@ -5,52 +5,31 @@ title: Our Coffee
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  This page contains defamation law resources.  These resources are focused on cases involving cyber defamation issues.  
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        [AVM Technology,LLC](www.infosecusa.com) Assist attorneys and investigators during cyber investigations regarding online defamation.  The firm assists attorneys with using advanced cyber investigation and forensics techniques to trace, uncover, and identify the authors behind anonymous malicious Internet posts.  The firm also assists individuals accused of online defamtion in disproving evidence obtained through faulty and flawed investigations. 
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        [Domingo J. Rivera, Esq.](www.icyberlaw.com) An Internet law pioneer who has successfully discovered the identitites of anonymous parties behind online defamation.  Mr. Rivera has also successfully defended individuals accused of cyber defamation and currently assists other law firms in properly, obtaining, preserving, and presenting forensic evidence.  Mr. Rivera has appeared as an expert witness in digital forensics in Courts throughout the United States. 
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Additional online defamation law resources.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Online evidence discovery and investigations. 
+  heading: What to we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: What to do if you are the victim of online defamation
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    If you are the victim of online defamation or are accused or may be accused of cyber defamation (such as receiving a John Doe case subpoena), seek professional assistance. This website is a resource but it is not a substitue for competent legal advice from a duly licensed attorney in your jurisdiction.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -61,14 +40,12 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Elisabeth K.
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Online defamation almost cost me the business that I worked so hard to build.  It could be a nightmare if not properly addressed, and even then, it takes time to get your life back.
+  - author: Philipp T.
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      I received a subpoena seeking to uncover my identity because a hacker used my business WiFi to post unflaterring content about a person that I knew.  It was a difficult situation to say the least. 
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
