@@ -3,17 +3,17 @@ templateKey: 'product-page'
 path: /resources
 title: Our Coffee
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Cyber Defamation Law Resources
 description: >-
   This page contains defamation law resources.  These resources are focused on cases involving cyber defamation issues.  
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        [AVM Technology,LLC](www.infosecusa.com) Assist attorneys and investigators during cyber investigations regarding online defamation.  The firm assists attorneys with using advanced cyber investigation and forensics techniques to trace, uncover, and identify the authors behind anonymous malicious Internet posts.  The firm also assists individuals accused of online defamtion in disproving evidence obtained through faulty and flawed investigations. 
+        [AVM Technology,LLC](http://www.infosecusa.com) Assist attorneys and investigators during cyber investigations regarding online defamation.  The firm assists attorneys with using advanced cyber investigation and forensics techniques to trace, uncover, and identify the authors behind anonymous malicious Internet posts.  The firm also assists individuals accused of online defamtion in disproving evidence obtained through faulty and flawed investigations. 
     - image: /img/coffee-gear.png
       text: >
-        [Domingo J. Rivera, Esq.](www.icyberlaw.com) An Internet law pioneer who has successfully discovered the identitites of anonymous parties behind online defamation.  Mr. Rivera has also successfully defended individuals accused of cyber defamation and currently assists other law firms in properly, obtaining, preserving, and presenting forensic evidence.  Mr. Rivera has appeared as an expert witness in digital forensics in Courts throughout the United States. 
+        [Domingo J. Rivera, Esq.](http://www.icyberlaw.com) An Internet law pioneer who has successfully discovered the identitites of anonymous parties behind online defamation.  Mr. Rivera has also successfully defended individuals accused of cyber defamation and currently assists other law firms in properly, obtaining, preserving, and presenting forensic evidence.  Mr. Rivera has appeared as an expert witness in digital forensics in Courts throughout the United States. 
     - image: /img/tutorials.png
       text: >
         Additional online defamation law resources.
