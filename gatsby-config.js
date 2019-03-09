@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Internet Defamation Law',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'This website is a resource for defamation laws in the United States, including the defamation laws of each individual State.  Courts apply Internet defamation laws to cases involving cyber defamation.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
