@@ -1,13 +1,12 @@
 ---
 templateKey: 'about-page'
 path: /defamation-resources
-title: About DefamationLaw.Tech
+title: Defamation Resources
 ---
 #### Defamation Resources
 This page contains some resources in cyber defamation law as well as cyber investigations and forensics.  The page is originally populated with information for contacting the creators but other attorney and cyber investigators will be added.  If you would like to add resouces, this page will be released to the open source community in the future.  In the meantime, write us a note and we will gladly consider the request.  
 
 ### Cyber Defamation Attorneys and Consultants Assisting Attorneys
-This project was created by attorney [Domingo J Rivera](https://www.icyberlaw.com) and [AVM Technology](http://www.infosecusa.com).  
 [Domingo J Rivera, Esq.](https://www.icyberlaw.com) - An Internet law pioneer who has successfully discovered the identitites of anonymous parties behind online defamation.  Mr. Rivera has also successfully defended individuals accused of cyber defamation and currently assists other law firms in properly, obtaining, preserving, and presenting forensic evidence.  Mr. Rivera has appeared as an expert witness in digital forensics in Courts throughout the United States. 
 
 ### Cyber Investigators and Forensics Consultants for Cyber Defamation Cases
