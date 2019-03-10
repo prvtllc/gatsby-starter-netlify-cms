@@ -3,11 +3,12 @@ templateKey: 'about-page'
 path: /defamation-resources
 title: About DefamationLaw.Tech
 ---
-### Why This Project
-The Internet has brought up an opportunity for free expression.  The balance between the First Amendment and reputational rights is constanly tested in the Courts.  This site was created to bring awareness to the laws of each jurisdiction, how are they being interpreted, and how they differ from each other.  
+#### Defamation Resources
+This page contains some resources in cyber defamation law as well as cyber investigations and forensics.  The page is originally populated with information for contacting the creators but other attorney and cyber investigators will be added.  If you would like to add resouces, this page will be released to the open source community in the future.  In the meantime, write us a note and we will gladly consider the request.  
 
-### Who Created This Project
-This project was created by attorney [Domingo J Rivera](https://www.icyberlaw.com) and [AVM Technology](http://www.infosecusa.com).  Mr. Rivera and AVM Technology consult with attorneys in investigations related to Internet defamation cases. The combination of knowledge of the law as well as technical expertise is applied to create a value added service for attorneys and law firms.
+### Cyber Defamation Attorneys and Consultants Assisting Attorneys
+This project was created by attorney [Domingo J Rivera](https://www.icyberlaw.com) and [AVM Technology](http://www.infosecusa.com).  
+[Domingo J Rivera, Esq.](https://www.icyberlaw.com) - An Internet law pioneer who has successfully discovered the identitites of anonymous parties behind online defamation.  Mr. Rivera has also successfully defended individuals accused of cyber defamation and currently assists other law firms in properly, obtaining, preserving, and presenting forensic evidence.  Mr. Rivera has appeared as an expert witness in digital forensics in Courts throughout the United States. 
 
-### This Website is Not Complete
-This website is constanly being updated by volunteers and attorneys.  Please do not rely on the information on this site to make life-changing legal decisions or to interpret your rights.  Consult with an attorney of your choice within your jurisdiction.  As you can appreciate while browsing this site, defamation laws may vary between different jurisdictions.  
+### Cyber Investigators and Forensics Consultants for Cyber Defamation Cases
+[AVM Technology, LLC](http://www.infosecusa.com) - Assists attorneys and investigators during cyber investigations regarding online defamation.  The firm assists attorneys with using advanced cyber investigation and forensics techniques to trace, uncover, and identify the authors behind anonymous malicious Internet posts.  The firm also assists individuals accused of online defamtion in disproving evidence obtained through faulty and flawed investigations. 
