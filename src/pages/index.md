@@ -1,7 +1,7 @@
 ---
 templateKey: 'index-page'
 title: 'Internet Defamation Laws'
-image: /img/home-jumbotron.jpg
+image: /img/defamationlawtechavm.jpg
 heading: Internet Defamation Laws
 subheading: Cyber defamation statutes and cases
 description: >-
