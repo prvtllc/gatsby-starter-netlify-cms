@@ -12,16 +12,16 @@ mainpitch:
       Under most States law defamation includes both libel and slander.  The elements generally are a publication about the plaintiff of an actionable statement with the requisite intent to injure the Plaintiff's reputation.      
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/image1.png
       text: >
         Each State's law generally applies whether or not the conduct occurred online.
-    - image: /img/coffee-gear.png
+    - image: /img/image2.jpg
       text: >
         Cyber defamation presents unique interpretations of the law that vary by state regardin anonimy, jurisdiction, and when a law suit is viable. 
-    - image: /img/tutorials.png
+    - image: /img/image3.jpg
       text: >
         This website presents a summary of different defamation laws and how the Courts of each State apply the same to conduct ocurring on the Internet. 
-    - image: /img/meeting-space.png
+    - image: /img/image4.jpg
       text: >
         Different jurisdictions treat the balance between Free Speech and reputation rights differently.
   
