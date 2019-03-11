@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
-import logo from '../img/logo.png'
+import logo from '../img/logo-2.png'
 
 const Navbar = class extends React.Component {
   componentDidMount() {
@@ -37,7 +37,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+              <img src={logo} alt="DefamationLawyer.Tech" style={{ width: '88px' }} />
             </Link>
             {/* Hamburger menu */}
             <div className="navbar-burger burger" data-target="navMenu">
@@ -48,6 +48,9 @@ const Navbar = class extends React.Component {
           </div>
           <div id="navMenu" className="navbar-menu">
             <div className="navbar-start has-text-centered">
+            <Link className="navbar-item" to="/">
+                Home
+              </Link>
             <Link className="navbar-item" to="/laws">
                 Defamation Laws By State
               </Link>
@@ -61,12 +64,12 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://www.cybertrialattorney.com"
+                href="https://www.defamationlawyer.tech"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <span className="icon">
-                  <img src={github} alt="Github" />
+                  <img src={github} alt="DefamtionLawyer.Tech" />
                 </span>
               </a>
             </div>
