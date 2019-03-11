@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
-import logo from '../img/logo-2.png'
+import logo from '../img/logo.png'
 
 const Navbar = class extends React.Component {
   componentDidMount() {
@@ -64,7 +64,7 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://www.defamationlawyer.tech"
+                href="https://www.defamationlaw.tech"
                 target="_blank"
                 rel="noopener noreferrer"
               >
