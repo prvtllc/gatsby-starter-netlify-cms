@@ -4,28 +4,33 @@ import github from '../img/github-icon.svg'
 import logo from '../img/logo.png'
 
 const Navbar = class extends React.Component {
-  componentDidMount() {
-    // Get all "navbar-burger" elements
-    const $navbarBurgers = Array.prototype.slice.call(
-      document.querySelectorAll('.navbar-burger'),
-      0
-    )
-    // Check if there are any navbar burgers
-    if ($navbarBurgers.length > 0) {
-      // Add a click event on each of them
-      $navbarBurgers.forEach(el => {
-        el.addEventListener('click', () => {
-          // Get the target from the "data-target" attribute
-          const target = el.dataset.target
-          const $target = document.getElementById(target)
-
-          // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-          el.classList.toggle('is-active')
-          $target.classList.toggle('is-active')
-        })
-      })
-    }
+  constructor(props) {
+    super(props);
+    this.state = {
+      active: false,
+      navBarActiveClass: ""
+    };
   }
+
+  toggleHamburger = () => {
+    // toggle the active boolean in the state
+    this.setState(
+      {
+        active: !this.state.active
+      },
+      // after state has been updated,
+      () => {
+        // set the class in state for the navbar accordingly
+        this.state.active
+          ? this.setState({
+              navBarActiveClass: "is-active"
+            })
+          : this.setState({
+              navBarActiveClass: ""
+            });
+      }
+    );
+  };
 
   render() {
     return (
@@ -40,13 +45,20 @@ const Navbar = class extends React.Component {
               <img src={logo} alt="DefamationLawyer.Tech" style={{ width: '88px' }} />
             </Link>
             {/* Hamburger menu */}
-            <div className="navbar-burger burger" data-target="navMenu">
+            <div
+              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+              data-target="navMenu"
+              onClick={() => this.toggleHamburger()}
+            >
               <span />
               <span />
               <span />
             </div>
           </div>
-          <div id="navMenu" className="navbar-menu">
+          <div
+            id="navMenu"
+            className={`navbar-menu ${this.state.navBarActiveClass}`}
+          >
             <div className="navbar-start has-text-centered">
             <Link className="navbar-item" to="/">
                 Home
@@ -76,8 +88,8 @@ const Navbar = class extends React.Component {
           </div>
         </div>
       </nav>
-    )
+    );
   }
-}
+};
 
-export default Navbar
+export default Navbar;
